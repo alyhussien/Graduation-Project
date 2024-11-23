@@ -34,10 +34,10 @@ This project represents a comprehensive effort to build the visual identity and 
 
 ## Preview  
 ### Visual Identity Example  
-[Click here to view the Logo Preview](https://jmp.sh/kzqMpqI9)  
+![Logo Preview](https://imgur.com/k5cbLe4.png)  
 
 ### Social Media Design Example  
-[Click here to view the Social Media Design Preview](https://jmp.sh/qrqJrwxB)
+![Social Media Design Preview](https://imgur.com/XsAGuH8.png)  
 
 ---
 
@@ -64,4 +64,4 @@ Special thanks to the **Digital Egypt Builders Initiative** for their guidance a
 ---
 
 ## Notes  
-For any issues with the files or project details, contact the contributors listed above.  
+Ensure that all shared links remain active and accessible. For any issues with the files or project details, contact the contributors listed above.  
