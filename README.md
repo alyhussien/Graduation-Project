@@ -34,10 +34,10 @@ This project represents a comprehensive effort to build the visual identity and 
 
 ## Preview  
 ### Visual Identity Example  
-![Logo Preview](https://jmp.sh/kzqMpqI9)  
+[Click here to view the Logo Preview](https://jmp.sh/kzqMpqI9)  
 
 ### Social Media Design Example  
-![Social Media Design Preview](https://jmp.sh/qrqJrwxB)  
+[Click here to view the Social Media Design Preview](https://jmp.sh/qrqJrwxB)
 
 ---
 
